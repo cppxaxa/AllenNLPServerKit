@@ -1,0 +1,3 @@
+docker kill "allennlp_customserver"
+
+docker rm --force "allennlp_customserver"
